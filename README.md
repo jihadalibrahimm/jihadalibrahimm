@@ -72,9 +72,7 @@
   <a href="https://linkedin.com/in/jihad-alibrahim" target="blank">LinkedIn</a> •
   
   <a href="https://www.facebook.com/profile.php?id=100092865439805" target="blank">Facebook</a> •
-  
-  <a href="https://instagram.com/jihad_elibrahimm" target="blank">Instagram</a> •
-</p>
+  </p>
 
 <h3 align="left">Projects:</h3>
 <ul>
