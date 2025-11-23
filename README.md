@@ -3,6 +3,11 @@
 <img align="right" height="250" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm5xZHRheWc0MTlmbDlsdGN1b3NleWc0dG1lNm5kM2tmYWh1OHVpcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ua7vVw9awZKWwLSYpW/giphy.gif" alt="coding animation" />
 
 ###
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ256OHVkYnJvOXU1Y2hpaGcyZnlqZ2VkejZqYTN0cWU5YXN1YzRybCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" 
+     alt="coding gif"
+     width="100%"
+     style="border-radius: 10px; margin-top: 20px;" />
+
 
 <div align="left">
 <div align="left">
