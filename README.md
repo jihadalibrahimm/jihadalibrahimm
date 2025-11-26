@@ -1,81 +1,61 @@
-## Hi 👋! I'm <span style="color:green"><strong>Jihad</strong></span> and I'm a passionate Web Developer
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jihado-i&label=Profile%20views&color=0e75b6&style=flat" alt="jihad" /> </p>
-<img align="right" height="250" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm5xZHRheWc0MTlmbDlsdGN1b3NleWc0dG1lNm5kM2tmYWh1OHVpcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ua7vVw9awZKWwLSYpW/giphy.gif" alt="coding animation" />
+# 👋 Hi there, I'm <span style="color:#00c853"><strong>Jihad Alibrahim</strong></span>
+### A passionate **Full Stack Web Developer** crafting modern, fast & scalable digital experiences.
 
-###
-<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aDc3eGViNW9veHpqcDl4MHdyNmQwcTZ0cTFyZnpkaXNua2s5OHR6dyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/4rZA5D22301iMgrUNd/giphy.gif" 
-     alt="funny coding gif"
-     width="100%"
-     style="border-radius: 10px; margin-top: 20px;" />
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=jihado-i&label=Profile%20views&color=brightgreen&style=flat" alt="profile views" />
+</p>
+<img align="right" height="250" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" alt="coding animation" />
 
-<div align="left">
+## 🚀 About Me
+I'm a **Full Stack Web Developer** based in <strong>Türkiye</strong>. I build **modern, responsive, and scalable web applications** using React, Next.js, Tailwind CSS, MongoDB, and WordPress. I focus on **clean code, seamless UI/UX, and fast performance**.  
+## 💬 Ask me about
+**React, Next.js, Tailwind CSS, MongoDB, WordPress, Responsive UI/UX**
+
+## 📫 How to reach me
+**jihadalibrahimm@gmail.com**
+
+## 👨‍💻 All of my projects are available at
+- [GitHub Projects](https://github.com/jihado-i)
+
+## 📝 I regularly write articles on
+- [My Blog](https://jihado.com/)
+
+## 📄 Know about my experiences
+- [My Resume](https://jihado.com/)
+
+## ⚡ Fun fact
+I turn coffee ☕ into code — and bugs into features 😎
+
+---
+
+## 🧰 Tech Stack
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="tailwind logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo" />
-  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="tailwind logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="30" alt="opencv logo" />
-  <img width="12" />
-</div>  
 </div>
 
-###
+---
 
-<div align="left">
-  <a href="mailto:jihadalibrahimm@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-  </a>
-  <a href="https://www.linkedin.com/in/jihad-alibrahim-a2712a195/?locale=tr_TR" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-  </a>
-</div>
-
-###
-
-<h3 align="left">💬 Ask me about freelance work opportunities or collaborations. Feel free to reach out if you'd like to work together!</h3>
-
-- 👨‍💻 All of my projects are available at [My Projects](https://github.com/jihado-i)
-- 📝 I regularly write articles on [My Blog](https://jihado.com/) 
-- 📫 How to reach me **jihadalibrahimm@gmail.com**
-- 📄 Know about my experiences [My Resume](https://jihado.com/)
-
-###
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  
-  <a href="https://linkedin.com/in/jihad-alibrahim" target="blank">LinkedIn</a> •
-  
-  <a href="https://www.facebook.com/profile.php?id=100092865439805" target="blank">Facebook</a> •
-  </p>
-
-<h3 align="left">Projects:</h3>
-<ul>
-  <li><a href="https://grand-meerkat-cc92b1.netlify.app/">Grand Meerkat</a></li>
-  
-  <li><a href="https://jihado-i.github.io/AwesomePortfolio/">Awesome Portfolio</a></li>
-  
-  <li><a href="https://lambent-tulumba-afbeec.netlify.app/">Lambent Tulumba</a></li>
-</ul>
+## 📊 Skills Diagram
+```mermaid
+graph TD
+    Frontend --> React
+    Frontend --> NextJS
+    Frontend --> Tailwind
+    Backend --> NodeJS
+    Backend --> MongoDB
+    CMS --> WordPress
+    CMS --> Elementor
+    Tools --> Git
+    Tools --> GitHub
