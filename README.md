@@ -1,32 +1,20 @@
 # 👋 Hi there, I'm <span style="color:#00c853"><strong>Jihad Alibrahim</strong></span>
-### A passionate **Full Stack Web Developer** crafting modern, fast & scalable digital experiences.
+### Professional **Full Stack Web Developer** building fast & scalable web applications.
 
-<p align="left">
+<p align="left" >
   <img src="https://komarev.com/ghpvc/?username=jihado-i&label=Profile%20views&color=brightgreen&style=flat" alt="profile views" />
 </p>
 <img align="right" height="250" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" alt="coding animation" />
 
-## 🚀 About Me
-I'm a **Full Stack Web Developer** based in <strong>Türkiye</strong>. I build **modern, responsive, and scalable web applications** using React, Next.js, Tailwind CSS, MongoDB, and WordPress. I focus on **clean code, seamless UI/UX, and fast performance**.  
-## 💬 Ask me about
-**React, Next.js, Tailwind CSS, MongoDB, WordPress, Responsive UI/UX**
+## 🚀 About Me ✨
+I'm a **Full Stack Web Developer** based in <strong>Türkiye</strong>, specializing in **React, Next.js, Tailwind CSS, MongoDB, and WordPress**.  
+I deliver **clean code, responsive UI/UX, and high-performance apps**.
 
-## 📫 How to reach me
-**jihadalibrahimm@gmail.com**
-
-## 👨‍💻 All of my projects are available at
-- [GitHub Projects](https://github.com/jihado-i)
-
-## 📝 I regularly write articles on
-- [My Blog](https://jihado.com/)
-
-## 📄 Know about my experiences
-- [My Resume](https://jihado.com/)
-
-## ⚡ Fun fact
-I turn coffee ☕ into code — and bugs into features 😎
-
----
+## 📩 Let’s Work Together 💡
+<div style="background-color:#e8f5e9;padding:15px;border-radius:10px;max-width:400px;">
+  If you have a project or idea, feel free to reach out — I love collaborating on *modern web apps, SaaS, and dashboards*.  
+</div>
+  <strong>Email:</strong> <a href="mailto:jihadalibrahimm@gmail.com">jihadalibrahimm@gmail.com</a>
 
 ## 🧰 Tech Stack
 <div align="left">
@@ -45,7 +33,17 @@ I turn coffee ☕ into code — and bugs into features 😎
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="30" alt="opencv logo" />
 </div>
 
----
+## 👨‍💻 Projects
+- [GitHub Projects](https://github.com/jihadalibrahimm?tab=repositories)
+
+## 📄 Resume
+- [My Resume](https://jihadalibrahimm.github.io/AwesomePortfolio/))
+
+
+
+## ⚡ Fun fact
+I turn coffee ☕ into code — and bugs into features 😎
+
 
 ## 📊 Skills Diagram
 ```mermaid
