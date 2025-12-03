@@ -34,10 +34,10 @@ I deliver **clean code, responsive UI/UX, and high-performance apps**.
 </div>
 
 ## 👨‍💻 Projects
-- [GitHub Projects](https://github.com/jihadalibrahimm?tab=repositories)
+[GitHub Projects](https://github.com/jihadalibrahimm?tab=repositories)
 
 ## 📄 Resume
-- [My Resume](https://jihadalibrahimm.github.io/AwesomePortfolio/))
+[My Resume](https://jihadalibrahimm.github.io/AwesomePortfolio/))
 
 
 
